@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 232.6 144.9">
+  <g id="Colorado">
+    <image width="2600" height="1463" transform="translate(-17.01 -2.56) scale(.1)" xlink:href="../RAW/Colorado College Tigers.png"/>
+  </g>
+  <g id="Denver">
+    <image width="3840" height="2160" transform="translate(219.01 -11.86) scale(.08)" xlink:href="../RAW/Denver Pioneers.png"/>
+  </g>
+</svg>

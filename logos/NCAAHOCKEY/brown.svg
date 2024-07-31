@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 232.6 144.9">
+  <g id="Brown">
+    <image width="3840" height="2160" transform="translate(-12.5) scale(.07)" xlink:href="../RAW/Brown Bears.png"/>
+  </g>
+  <g id="Clarkson">
+    <image width="1200" height="674" transform="translate(229.42 -4.69) scale(.23)" xlink:href="../RAW/Clarkson Golden Knights.png"/>
+  </g>
+</svg>

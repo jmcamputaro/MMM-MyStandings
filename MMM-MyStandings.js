@@ -25,7 +25,8 @@ Module.register("MMM-MyStandings",{
 										"Mid-Eastern Athletic Conference", "Missouri Valley Conference", "Mountain West Conference", "Northeast Conference",
 										"Ohio Valley Conference", "Pac-12 Conference", "Patriot League", "Southeastern Conference",
 										"Southern Conference", "Southland Conference", "Southwestern Athletic Conference", "Summit League",
-										"Sun Belt Conference", "West Coast Conference", "Western Athletic Conference"] }
+										"Sun Belt Conference", "West Coast Conference", "Western Athletic Conference"] },
+			{ league: "NCAAHOCKEY", groups: ["Atlantic Hockey", "Big Ten", "CCHA", "ECAC", "Hockey East", "NCHC"] }
 		],
 		nameStyle: "short", // "abbreviation", "full", or "short"
 		showLogos: true,

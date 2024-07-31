@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Michigan" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.6 144.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #293b5a;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f2ca30;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M18.93,2v41.65h15.1v57.28h-15.1v41.98h75.36v-41.98h-15.59v-32.94l37.59,50.05,37.59-50.05v32.94h-15.59v41.97h75.36v-41.97h-15.1v-57.28h15.1V2h-59.12l-38.25,53.14L78.05,2H18.93Z"/>
+  <path class="cls-2" d="M116.3,60.14L156.05,4.92h54.69v35.8h-15.1v63.12h15.1v36.12h-69.51v-36.12h15.59v-44.63l-40.51,53.95-40.51-53.95v44.63h15.59v36.13H21.86v-36.13h15.1v-63.12h-15.1V4.92h54.69l39.75,55.22Z"/>
+</svg>
